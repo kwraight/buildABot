@@ -12,8 +12,11 @@ Requirements:
 
 Use the terminal command `git clone https://github.com/kwraight/buildABot.git`
 
-You should now have a directory `buildABot`. Go in and start the fun!
-  * `cd buildABot`
+You should now have a directory `buildABot`. 
+  * list the directories using teminal command `ls`
+  * change into directory using terminal command `cd buildABot`
+  
+Go in and start the fun!
 
 ### Send a tweet
 
