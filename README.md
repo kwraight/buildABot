@@ -37,7 +37,7 @@ Go in and start the fun!
 
 Start by updating the *APIsettings.py* file with your own credentials. 
   * Open the file, e.g. `emacs APIsettings.py &`. A text editor window should pop up with the code inside.
-  * Edit the text `YOUR_INFO_HERE` with appropriate info from twitter development website.
+  * Replace the text `YOUR_INFO_HERE` with appropriate info from twitter development website.
   * Save the file: click the icon what looks like a disc.
 Post the tweet using the following command: `python postTweet.py`
   * There should be a tweet from your account with the form `This tweet was posted at: SOMETIME`
