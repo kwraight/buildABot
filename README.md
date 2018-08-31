@@ -4,7 +4,7 @@ basic files to build a twitter bot
 This uses python code to use twitter API to read/post tweets
 
 Requirements:
-* twitter developer account: Fill out developer application ([here](https://developer.twitter.com))
+* twitter developer account: Fill out developer application ([here](https://developer.twitter.com)) (check out some online ([instruction](http://docs.inboundnow.com/guide/create-twitter-application/))
 * Python tweepy library: install the library with the following command `python -m pip install tweepy`
 * Python datetime library: install the library with the following command `python -m pip install datetime`
 
