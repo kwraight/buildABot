@@ -1,5 +1,5 @@
 # buildABot
-Basic files to build a twitter bot. This uses python code to with twitter API to read/post tweets.
+Basic files to build a twitter bot -  using python code with twitter API to read/post tweets.
 
 The following instructions assume you're using a raspberry-pi (or some linux like system).
 
