@@ -16,7 +16,7 @@ def postInfo(val, type, id):
     # post it!
     status = api.update_status(status=tweet)
 
-# the main function, the numero uno, the prima... thing
+# the main function, the numero uno, the prima... thing. It starts the ball rolling
 if __name__ == "__main__":
     main()
 
